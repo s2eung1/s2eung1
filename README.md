@@ -1,5 +1,6 @@
 ### 🤞 Hello I'm Seung-won
-==========================
+
+
 <p>
   <a href="https://github.com/s2eung1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.instagram.com/s2eung_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a
@@ -13,8 +14,9 @@
 ***
 
 ### 👩🏻‍💻 s2eung1 👩🏻‍💻
-=============
+
 #### ⚙️Platforms & Languages  
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
@@ -31,12 +33,18 @@
   <br>
 </p>
 
+
+
 #### 🌱 Study
+
 <p>
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
 </p>
 
+
+
 #### ✨ Stats
+
 <p>
   
   ![s2eung1's github stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true)
