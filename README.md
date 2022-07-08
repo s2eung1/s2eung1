@@ -9,10 +9,11 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm a<b>prospective developer</b>who is studying hard.🚀<br/>
+  👋&nbsp; Hi there! I'm a <b>prospective developer</b> who is studying hard.🚀<br/>
   I am studying in the department of software.<br/>
   I always hope everyone gets good results.<br/>
 </p>
+</br>
 
 
 
@@ -36,13 +37,13 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <br>
 </p>
-
+</br>
 
 #### 🌱 Study
 <p>
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
 </p>
-
+</br>
 
 
 #### ✨ Stats
