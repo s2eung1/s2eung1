@@ -1,6 +1,7 @@
 <div align="center">
-
-###👋Hello I'm Seung-Won👋
+### 👋Hello I'm Seung-Won👋
+  </div>
+<div align="center">
   #### s2eung1👩🏻‍💻
   <a href="https://github.com/s2eung1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.instagram.com/s2eung_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram &logoColor=white"/></a>
