@@ -42,16 +42,16 @@
 
 
 
-#### 🌱 Study
+#### 🌱 Study
 <p>
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
 </p>
 
 
 
-#### ✨ Stats
+#### ✨ Stats
 <p>
-  ![s2eung1's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2eung1&layout=compact)](https://github.com/s2eung1/github-readme-stats)
 </p>
 
