@@ -3,6 +3,8 @@
   ### 👋Hello I'm Seung-Won👋
 
 </div>
+
+<hr>
   
 <div align="center">
   
@@ -12,6 +14,7 @@
   <a href="https://www.acmicpc.net/user/s2eung1"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat-square&logo=Bilibili&logoColor=white"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoputer&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="s2eung's hit counter"/>
 
+  <hr>
   #### Stack🛠
   <img src="https://img.shields.io/badge/C-1B1A17?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
@@ -26,10 +29,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <br>
   
+  <hr>
   #### Study🌱
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
   
-
+  
+  <hr>
   #### Stats✨
  ![s2eung1's github stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true)
 [![s2eung1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=s2eung1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/s2eung1)    
