@@ -2,18 +2,16 @@
 
 <p>
   <a href="https://github.com/s2eung1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-  <a href="https://www.instagram.com/s2eung_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a
+  <a href="https://www.instagram.com/s2eung_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.acmicpc.net/user/s2eung1" target="_blank"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat&logo=Bilibili&logoColor=white"/></a>
   <a href="mailto:jswking1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jswking1209@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoputer&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="s2eung's hit counter"/>
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  👋&nbsp; Hi there! I'm a<b>prospective developer</b>who is studying hard.🚀<br/>
+  I am studying in the department of software.<br/>
+  I always hope everyone gets good results.<br/>
 </p>
 
 
