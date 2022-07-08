@@ -1,20 +1,6 @@
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+👋;This+is+SeungWon;&center=true&size=30">
-  </a>
-</h1>
 
-<br>
-<p align="center">
-  <code><a href="https://www.instagram.com/s2eung_1/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-  <br>
- 
-</p>
 
-<hr>
-<h3 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h3>
-<br>
 <!-- <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
