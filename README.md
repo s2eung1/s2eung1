@@ -51,6 +51,7 @@
 
 #### ✨ Stats
 <p>
+  ![s2eung1's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&hide=contribs,prs&theme=buefy&show_icons=true)
   ![s2eung1's github stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2eung1&layout=compact)](https://github.com/s2eung1/github-readme-stats)
 </p>
