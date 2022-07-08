@@ -3,7 +3,7 @@
 <p>
   <a href="https://github.com/s2eung1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.instagram.com/s2eung_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a
-  <a href="https://www.acmicpc.net/user/s2eung1"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat&logo=Bilibili&logoColor=white"/></a>
+  <a href="https://www.acmicpc.net/user/s2eung1" target="_blank"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat&logo=Bilibili&logoColor=white"/></a>
   <a href="mailto:jswking1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jswking1209@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoputer&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="s2eung's hit counter"/>
 </p>
@@ -51,10 +51,8 @@
 
 #### ✨ Stats
 <p>
-  
-  ![s2eung1's github stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true)
-  [![s2eung1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=s2eung1&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/s2eung1)
-  
+  ![s2eung1's github stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2eung1&layout=compact)](https://github.com/s2eung1/github-readme-stats)
 </p>
 
 
