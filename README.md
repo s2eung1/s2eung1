@@ -15,6 +15,7 @@
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
+
 ### s2eung1👩🏻‍💻
 #### Platforms & Languages  
 <p>
@@ -32,6 +33,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <br>
 </p>
+
 #### Study🌱
 <p>
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
