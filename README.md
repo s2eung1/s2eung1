@@ -49,8 +49,7 @@
 
 
 #### ✨ Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=swift&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2eung1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
 
 
 <!--
