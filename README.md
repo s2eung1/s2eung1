@@ -22,7 +22,7 @@
 
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
-#### ⚙️Platforms & Languages  
+#### ⚙️ Platforms & Languages  
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
@@ -51,6 +51,7 @@
 
 #### ✨ Stats
 <p>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=radical)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s2eung1&layout=compact)](https://github.com/s2eung1/github-readme-stats)
 </p>
