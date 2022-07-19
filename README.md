@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm a <b>prospective developer</b> who is studying hard.🚀<br/>
+  👋&nbsp; Hi there!🚀<br/>
   I am studying in the department of software.<br/>
   I always hope everyone gets good results.<br/>
 </p>
