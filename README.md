@@ -9,9 +9,9 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there!🚀<br/>
+  👋&nbsp; Hi there!<br/>
   I am studying in the department of software.<br/>
-  I always hope everyone gets good results.<br/>
+  I always hope everyone gets good results.🍀<br/>
 </p>
 </br>
 
@@ -39,10 +39,11 @@
 </p>
 </br>
 
- \\<!-- 
+<!-- 
 #### 🌱 Study
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
-  -->
+-->
+
 #### ✨ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
 
