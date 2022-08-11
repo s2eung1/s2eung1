@@ -39,8 +39,10 @@
 </p>
 </br>
 
+ \\<!-- 
 #### 🌱 Study
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
+  -->
 #### ✨ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
 
