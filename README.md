@@ -1,4 +1,3 @@
-<div align=center> 
 ## 🤞 Hello I'm Seung-won
 
 <p>
@@ -49,7 +48,7 @@
   
   ### ✨ Stats ✨
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
-  </div>
+
 
 <!-- 
 #### 🌱 Study
