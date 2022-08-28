@@ -23,7 +23,6 @@
 <div align=center> 
   <h3> ⚙️ Platforms & Languages ⚙️ </h3>
   <br>
-  <br>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/C-1B1A17?style=flat&logo=C&logoColor=white"/>
@@ -58,9 +57,7 @@
   <h3>✨ Stats ✨</h3>
   <br>
   <br>
-  <p>
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
-  </p>  
 </div>
 
 <!--
