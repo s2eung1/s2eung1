@@ -57,9 +57,10 @@
   <h3>✨ Stats ✨</h3>
   <br>
   <div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
   </div>
 </div>
+
 
 <!--
 **s2eung1/s2eung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
