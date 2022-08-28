@@ -21,7 +21,7 @@
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
 <div align=center> 
-  ### ⚙️ Platforms & Languages ⚙️
+  <h3>⚙️ Platforms & Languages ⚙️</h3>
   
   
   <p>
