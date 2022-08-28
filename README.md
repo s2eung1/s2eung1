@@ -20,6 +20,7 @@
 
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
+<div align=center> 
 #### ⚙️ Platforms & Languages  
 
 <p> 
@@ -44,15 +45,17 @@
   <br>
 </p>
 </br>
+</div>
 
 <!-- 
 #### 🌱 Study
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
 -->
 
+<div align=center> 
 #### ✨ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
-
+</div>
 
 <!--
 **s2eung1/s2eung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
