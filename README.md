@@ -45,6 +45,11 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   </p>
   </br>
+  
+  <h3>✨ Stats ✨</h3>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
+  
+  
   </div>
 
 <!-- 
@@ -60,7 +65,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
+
 
 
 <!--
