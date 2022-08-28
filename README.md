@@ -57,7 +57,7 @@
   <h3>✨ Stats ✨</h3>
   <br>
   <br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
 </div>
 
 <!--
