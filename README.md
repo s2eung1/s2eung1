@@ -21,7 +21,7 @@
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
 <div align=center> 
-#### ⚙️ Platforms & Languages  
+⚙️ Platforms & Languages  
 
 <p> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
@@ -53,8 +53,10 @@
 -->
 
 <div align=center> 
-#### ✨ Stats
+  
+✨ Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
+  
 </div>
 
 <!--
