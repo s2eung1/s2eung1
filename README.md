@@ -21,7 +21,7 @@
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
 <div align=center> 
-  <h3> ⚙️ Platforms & Languages ⚙️ </h3>
+  ### ⚙️ Platforms & Languages ⚙️
   
   
   <p>
@@ -48,23 +48,12 @@
   
   ### ✨ Stats ✨
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
-  
-  
   </div>
 
 <!-- 
 #### 🌱 Study
   <a href="https://solved.ac/profile/s2eung1"><img src="http://mazandi.herokuapp.com/api?handle=s2eung1&theme=warm" /></a>
 -->
-
-<div align=center> 
-  <h3>✨ Stats ✨</h3>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
-</div>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
-
 
 
 
