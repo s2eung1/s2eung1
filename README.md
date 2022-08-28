@@ -1,3 +1,4 @@
+<div align=center> 
 ## 🤞 Hello I'm Seung-won
 
 <p>
@@ -20,7 +21,7 @@
 
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
-<div align=center> 
+
   <h3>⚙️ Platforms & Languages ⚙️</h3>
   
   
