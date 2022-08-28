@@ -20,8 +20,7 @@
 
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
-
-  <h3>⚙️ Platforms & Languages ⚙️</h3>
+####  Platforms & Languages 
   
   
   <p>
@@ -44,9 +43,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
   </p>
-  </br>
+  <br></br>
   
-  ### ✨ Stats ✨
+  #### ✨ Stats ✨
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
 
 
