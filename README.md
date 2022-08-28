@@ -54,17 +54,14 @@
 
 <div align=center> 
   <h3>✨ Stats ✨</h3>
-  <br></br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
 
-![Anurag's GitHub stats](<a href=https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy></a>)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
+
 
 <!--
 **s2eung1/s2eung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
