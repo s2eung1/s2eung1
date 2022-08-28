@@ -22,7 +22,8 @@
 
 <div align=center> 
   <h3> ⚙️ Platforms & Languages ⚙️ </h3>
-  <br>
+  
+  
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> 
     <img src="https://img.shields.io/badge/C-1B1A17?style=flat&logo=C&logoColor=white"/>
@@ -42,7 +43,6 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
-    <br>
   </p>
   </br>
   </div>
@@ -53,9 +53,8 @@
 -->
 
 <div align=center> 
-<br>  
   <h3>✨ Stats ✨</h3>
-  <br>
+  <br></br>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&show_icons=true&theme=buefy)
 </div>
 
