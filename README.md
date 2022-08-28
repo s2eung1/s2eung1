@@ -55,10 +55,10 @@
 <div align=center> 
 <br>  
   <h3>✨ Stats ✨</h3>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
   <br>
-  <br>
+  <div>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2eung1&theme=buefy&show_icons=true)
+  </div>
 </div>
 
 <!--
