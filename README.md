@@ -1,18 +1,3 @@
-## 🤞 Hello I'm Seung-won
-
-<p>
-  <a href="https://github.com/s2eung1" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-  <a href="https://www.instagram.com/s2eung_1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.acmicpc.net/user/s2eung1" target="_blank"><img src="https://img.shields.io/badge/BaekJoon-2FA4FF?style=flat&logo=Bilibili&logoColor=white"/></a>
-  <a href="mailto:jswking1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jswking1209@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoputer&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false" alt="s2eung's hit counter"/>
-</p>
-
-
-</br>
-
-
-
 
 ## 👩🏻‍💻 s2eung1 👩🏻‍💻
 
